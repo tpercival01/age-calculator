@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot of full page](./assets/images/Screenshot 2023-04-01 at 21-28-48 Frontend Mentor Age calculator app.png)
+![Screenshot of full page](./assets/images/screenshot-desktop.png)
 
 ### Links
 
