@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend mentor solution page](https://www.frontendmentor.io/solutions/age-calculator-vuGQJ2-Yre)
+- Live Site URL: [Github pages live page](https://tpercival01.github.io/age-calculator/)
 
 ## My process
 
