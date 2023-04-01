@@ -118,11 +118,11 @@ label {
     margin-top: -100px;
 }
 
-#results-container span {
+#results-container div {
     display: flex;
 }
 
-#results-container span p:nth-child(2){
+#results-container div p:nth-child(2){
     font-size: 100px;
 }
 
