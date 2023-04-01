@@ -80,15 +80,3 @@ const setYear = async (year) => {
     }
   }
 };
-
-// validation error messages
-const input_day = document.getElementById("day-input");
-input_day.addEventListener("invalid", (event) => {
-  if (event.target.validity.valueMissing) {
-    event.target.setCustomValidity("nice");
-  }
-});
-
-input_day.addEventListener("change", (event) => {
-  event.target.setCustomValidity("");
-});
